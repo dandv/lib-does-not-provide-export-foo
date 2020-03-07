@@ -1,0 +1,6 @@
+{
+  "name": "use-lib",
+  "version": "1.0.0",
+  "description": "Attempt to use obvious export from lib",
+  "type": "module"
+}
